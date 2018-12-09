@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "83102811331",
+    "firebase_url": "https://vnedu-a5e6f.firebaseio.com",
+    "project_id": "vnedu-a5e6f",
+    "storage_bucket": "vnedu-a5e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83102811331:android:b41d0d9a3c72198c",
+        "android_client_info": {
+          "package_name": "com.vnpt.media.bookingcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83102811331-ve7hagsbj5i448aenjtvr9cmnun94aut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vnpt.media.bookingcar",
+            "certificate_hash": "307e49aa14ac39164cd2e965b49c9579a733e548"
+          }
+        },
+        {
+          "client_id": "83102811331-go91tk02nmgqjgbvvrhcf1tbor7cc8cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuNEvwLI4WwTOlk-Qleb72ECHH4X4mJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83102811331-go91tk02nmgqjgbvvrhcf1tbor7cc8cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
